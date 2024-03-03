@@ -1,2 +1,2 @@
 data set link
-https://catalog.data.gov/dataset/real-estate-sales-2001-2018
+/kaggle/input/diabetes-prediction-dataset/diabetes_prediction_dataset.csv
